@@ -45,7 +45,4 @@ public class Datas {
     public void setWalk(int walk) {
         this.walk = walk;
     }
-
-
-
 }
